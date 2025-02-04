@@ -1,1 +1,2 @@
-# Inversi-n-digital-en-comunidad
+# Inversión-digital-en-comunidad
+Las plataformas de trading social combinan tecnología y redes para democratizar las inversiones. Ahora, cualquiera puede observar y replicar estrategias, pero confiar ciegamente en otros sin comprender el mercado puede traer problemas. Sin regulación y educación financiera, los riesgos aumentan, afectando a inversores inexpertos. La clave es equilibrar innovación con responsabilidad.
